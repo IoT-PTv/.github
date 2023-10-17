@@ -1,6 +1,7 @@
 # IoT-PT - Internet of things Penetration Testing
-`IoT-PTv - is an opensource pentesting operating system for petesting IoT devices and different areas. now we are supporting other areas like medical , vehicle and IIoT.
-`
+
+IoT-PTv - is an opensource pentesting operating system for petesting IoT devices and different areas. now we are supporting other areas like medical , vehicle and IIoT.
+
 
 ### Join Us 
 
