@@ -9,6 +9,8 @@
 > 🔧 **IoT-PTv1** is now live!  
 > 👉 [Explore IoT-PTv1 Repository](https://github.com/IoT-PTv/IoT-PT-v1)
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/IoT-PTv/IoT-PT/master/wallpapers/iot-pt-final.png" alt="IoT-PT Preview" title="IoT-PT OS Preview" width="200"/>
 </p>
